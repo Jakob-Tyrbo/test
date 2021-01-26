@@ -25,6 +25,10 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+.fa-canadian-maple-leaf {
+    color: red;
+}
+
 .mountain, .lightning, .waterfall {
     border: 5px solid grey;
     display: inline-block;
